@@ -1,0 +1,5 @@
+#1. send in audio and have it transcribed
+
+#2. We want to sned it to chatgpt and get  response
+
+#3. we want to save the chat history to send bck and forth for contexxt
